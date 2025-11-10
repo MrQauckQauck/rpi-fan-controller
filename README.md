@@ -1,5 +1,8 @@
 # rpi-fan-controller
 
+So, I can just imagine that 99.75% of people are going to look at this and just shake their heads, maybe even screaming at their screens like, 'Why on earth would you do something so dumb?!' Some might even say, 'It’s a pointless idea that doesn’t even need fans!' And you know what? You’re probably right. But hey, sometimes it’s just fun to do dumb little things and mess around. Who needs logic when you’ve got curiosity and a dash of chaos?
+
+
 This project is designed to control a fan using a Raspberry Pi 5. The fan will operate on a schedule, running at full power for 2 hours, followed by a 3-hour shutdown, and then running again for another 2 hours.
 
 ## Project Structure
